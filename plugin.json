@@ -1,0 +1,12 @@
+{
+    "ID":"EC2896C476F74FDEA12A6295FD16CB11",
+    "ActionKeyword":"mask",
+    "Name":"SubnetMask",
+    "Description":"Get subnet mask by / format",
+    "Author":"Rando",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/Rand-o",
+    "IcoPath":"Images\\alias.png",
+    "ExecuteFileName":"main.py"
+}
